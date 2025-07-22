@@ -37,3 +37,13 @@
 | Кар-Карыч | Совунья |
 |----------|--------|
 | ![](./Photo/photo_5.jpg) | ![](./Photo/photo_6.jpg) 
+
+# Скриншоты окна Explorer
+| Папка Teleport в Workspace | Структурирование объеков в модели House | Папка ReplicatedStorage с событиями для покупки сладостей в магазине|
+|----------|--------|--------|
+| ![](./Explorer/Explorer_1.jpg) | ![](./Explorer/Explorer_2.jpg) | ![](./Explorer/Explorer_3.jpg) 
+
+| Скрипты и товары, которые выдаются в руки игроку при покупке | Интерфейс для панели и магазина | Cтруктура оформления инструмента Sovynya|
+|----------|--------|--------|
+| ![](./Explorer/Explorer_4.jpg) | ![](./Explorer/Explorer_5.jpg) | ![](./Explorer/Explorer_6.jpg) 
+
